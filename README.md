@@ -1,4 +1,4 @@
 # testGB
-add GOWAABK login1
+add GOWAABK login2
 Wow wow  iam Name Surname
 
